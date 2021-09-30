@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -133,7 +132,7 @@
           </div>
           <div class="mb-3"><span class="fw-bolder">ReactJS</span>
             <div class="progress my-2 rounded" style="height: 20px">
-              <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="200" data-aos-anchor=".skills-section" style="width: 55%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">Beginner</div>
+              <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="250" data-aos-anchor=".skills-section" style="width: 55%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">Beginner</div>
             </div>
           </div>
         </div>
@@ -145,17 +144,17 @@
           </div>
           <div class="mb-3"><span class="fw-bolder">Amazon Web Services</span>
             <div class="progress my-2 rounded" style="height: 20px">
-              <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="300" data-aos-anchor=".skills-section" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">Expert</div>
+              <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="350" data-aos-anchor=".skills-section" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">Expert</div>
             </div>
           </div>
           <div class="mb-3"><span class="fw-bolder">ELK Stack</span>
             <div class="progress my-2 rounded" style="height: 20px">
-              <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="350" data-aos-anchor=".skills-section" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">Expert</div>
+              <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="400" data-aos-anchor=".skills-section" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">Expert</div>
             </div>
           </div>
           <div class="mb-3"><span class="fw-bolder">Retool</span>
             <div class="progress my-2 rounded" style="height: 20px">
-              <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="400" data-aos-anchor=".skills-section" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">Intermediate</div>
+              <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="450" data-aos-anchor=".skills-section" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">Intermediate</div>
             </div>
           </div>
         </div>
@@ -175,7 +174,7 @@
             <div>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</div>
           </div>
         </div>
-        <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="200">
+        <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="100">
           <div class="timeline-head px-4 pt-3">
             <div class="h5">Software Engineer <span class="text-muted h6">at Talentica, Pune</span></div>
           </div>
@@ -184,7 +183,7 @@
             <div>Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</div>
           </div>
         </div>
-        <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="400">
+        <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="200">
           <div class="timeline-head px-4 pt-3">
             <div class="h5">DevOps Engineer <span class="text-muted h6">at Deloitte USI, Bengaluru</span></div>
           </div>
