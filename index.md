@@ -115,7 +115,7 @@
       <h2 class="h2 fw-light mb-4">Professional Skills</h2>
       <div class="row">
         <div class="col-md-6">
-          <div class="mb-3"><span class="fw-bolder">NodeJS</span>
+          <div class="mb-3"><span class="fw-bolder">JavaScript</span>
             <div class="progress my-2 rounded" style="height: 20px">
               <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="100" data-aos-anchor=".skills-section" style="width: 95%;" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">Master</div>
             </div>
@@ -127,12 +127,17 @@
           </div>
           <div class="mb-3"><span class="fw-bolder">TypeScript</span>
             <div class="progress my-2 rounded" style="height: 20px">
-              <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="200" data-aos-anchor=".skills-section" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">Advance</div>
+              <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="200" data-aos-anchor=".skills-section" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">Intermediate</div>
             </div>
           </div>
-          <div class="mb-3"><span class="fw-bolder">ReactJS</span>
+          <div class="mb-3"><span class="fw-bolder">Python Scripting</span>
             <div class="progress my-2 rounded" style="height: 20px">
-              <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="250" data-aos-anchor=".skills-section" style="width: 55%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">Beginner</div>
+              <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="250" data-aos-anchor=".skills-section" style="width: 60%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">Advance</div>
+            </div>
+          </div>
+          <div class="mb-3"><span class="fw-bolder">JSX</span>
+            <div class="progress my-2 rounded" style="height: 20px">
+              <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="250" data-aos-anchor=".skills-section" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">Beginner</div>
             </div>
           </div>
         </div>
@@ -144,7 +149,12 @@
           </div>
           <div class="mb-3"><span class="fw-bolder">Amazon Web Services</span>
             <div class="progress my-2 rounded" style="height: 20px">
-              <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="350" data-aos-anchor=".skills-section" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">Expert</div>
+              <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="350" data-aos-anchor=".skills-section" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">Master</div>
+            </div>
+          </div>
+          <div class="mb-3"><span class="fw-bolder">Containerization</span>
+            <div class="progress my-2 rounded" style="height: 20px">
+              <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="350" data-aos-anchor=".skills-section" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">Expert</div>
             </div>
           </div>
           <div class="mb-3"><span class="fw-bolder">ELK Stack</span>
@@ -205,8 +215,10 @@
           </div>
           <div class="timeline-body px-4 pb-4">
             <div class="text-muted text-small mb-3"><h6>Motilal Nehru National Institute of Technology, Allahabad</h6></div>
-            <div class="text-muted text-small mb-3"><b>Year of Completion</b> <h6>2018</h6></div>
-            <div class="text-muted text-small mb-3"><b>CPI/GPA</b> <h6>7.08</h6></div>
+            <div class="row col-md-6">
+            <div class="text-muted text-small mb-3 col-md-6"><b>Year of Completion</b> <h6>2018</h6></div>
+            <div class="text-muted text-small mb-3 col-md-6"><b>CPI/GPA</b> <h6>7.08</h6></div>
+          </div>
           </div>
         </div>
         <div class="timeline-card timeline-card-success" data-aos="fade-in" data-aos-delay="100">
@@ -215,8 +227,10 @@
           </div>            
           <div class="timeline-body px-4 pb-4">
             <div class="text-muted text-small mb-3"><h6>St. Francis' College, Lucknow</h6></div>
-            <div class="text-muted text-small mb-3"><b>Year of Completion</b> <h6>2014</h6></div>
-            <div class="text-muted text-small mb-3"><b>Percentage</b> <h6>97.4%</h6></div>
+            <div class="row col-md-6">
+            <div class="text-muted text-small mb-3 col-md-6"><b>Year of Completion</b> <h6>2014</h6></div>
+            <div class="text-muted text-small mb-3 col-md-6"><b>Percentage</b> <h6>97.4%</h6></div>
+          </div>
           </div>
         </div>
         <div class="timeline-card timeline-card-success" data-aos="fade-in" data-aos-delay="200">
@@ -225,8 +239,10 @@
           </div>
           <div class="timeline-body px-4 pb-4">
             <div class="text-muted text-small mb-3"><h6>St. Francis' College, Lucknow</h6></div>
-            <div class="text-muted text-small mb-3"><b>Year of Completion</b> <h6>2012</h6></div>
-            <div class="text-muted text-small mb-3"><b>Percentage</b> <h6>92.14%</h6></div>
+            <div class="row col-md-6">
+              <div class="text-muted text-small mb-3 col-md-6"><b>Year of Completion</b> <h6>2012</h6></div>
+              <div class="text-muted text-small mb-3 col-md-6"><b>Percentage</b> <h6>92.14%</h6></div>
+            </div>
           </div>
         </div>
       </div>
